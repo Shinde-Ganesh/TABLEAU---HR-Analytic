@@ -84,7 +84,5 @@ Direct Navigation: Smooth navigation between Summary and Detail views.
 
 Business Intelligence: Tableau Desktop
 
-Data Source: CSV / Data generated using Python Faker & ChatGPT
-
 Design & Theme: Dark Mode UI with custom hex highlights (#03c4a1 Teal for Active/Hired, #c52a87 Pink for Terminated)
 
