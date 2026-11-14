@@ -10,7 +10,8 @@ This project provides HR leaders and business decision-makers with actionable in
 
 **Dashboard Screenshot**
 
-<img width="1426" height="820" alt="image" src="https://github.com/user-attachments/assets/1c6a4246-193d-43d0-b93d-e907b5d18704" /> 
+<img width="1428" height="826" alt="image" src="https://github.com/user-attachments/assets/d4b24cfe-3265-4f47-a63f-566d299a2ba3" />
+
 
 
 
